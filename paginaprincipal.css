@@ -1,0 +1,65 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300&display=swap');
+
+*{margin: 0;
+  padding: 0;}
+.titulo {
+    position: absolute;
+width: 208px;
+height: 39px;
+left: 105px;
+top: 31px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 39px;
+/* identical to box height */}
+
+.titulo strong {
+    color: #FFFFFF;
+    font-weight: 400;
+}
+
+.logo {
+    position: absolute;
+width: 100px;
+height: 100px;
+left: 14px;
+top: 0px;
+
+}
+.cabe {
+    position: absolute;
+width: 1440px;
+height: 93px;
+left: 0px;
+top: 0px;
+
+background: #A4BAD2;
+}
+
+#pesquisar {
+    position: absolute;
+width: 360px;
+height: 45px;
+left: 521px;
+top: 30px;
+
+background: #FFFFFF;
+border-radius: 20px;
+border-color: #A4BAD2;
+}
+#lupa {
+    position: absolute;
+width: 30px;
+height: 30px;
+left: 543px;
+top: 38px;
+
+background: url(lupa.png);
+
+}
+
+
+
